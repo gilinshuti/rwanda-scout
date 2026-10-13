@@ -1,0 +1,6 @@
+{
+  "name": "Rwanda Football Scout",
+  "description": "Offline scouting tool for Rwandan football matches with high-contrast accessibility design and comprehensive stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
